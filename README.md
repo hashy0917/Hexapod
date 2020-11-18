@@ -1,5 +1,8 @@
 # Hexapod
 
+## Version
+V0.1
+
 ## 解説
 
 ### 使用機器
